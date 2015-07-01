@@ -5,11 +5,11 @@ s.summary          = "A marquee view used on iOS."
 s.description      = <<-DESC
 It is a marquee view used on iOS, which implement by Objective-C.
 DESC
-s.homepage         = "https://github.com/changcunyuan/BdAnimation"
+s.homepage         = "https://github.com/changcunyuanMembers/BdAnimation"
 # s.screenshots      = "www.example.com/screenshots_1", "www.example.com/screenshots_2"
 s.license          = 'MIT'
-s.author           = { "changcunyuan" => "409593434@qq.com" }
-s.source           = { :git => "https://github.com/changcunyuan/BdAnimation.git", :tag => s.version.to_s }
+s.author           = { "changcunyuanMembers" => "409593434@qq.com" }
+s.source           = { :git => "https://github.com/changcunyuanMembers/BdAnimation.git", :tag => s.version.to_s }
 # s.social_media_url = 'https://twitter.com/NAME'
 
 s.platform     = :ios, '7.0'
